@@ -1,0 +1,6 @@
+D:\Projects\ForLoopStudy\ForLoopStudy\bin\Debug\ForLoopStudy.exe.config
+D:\Projects\ForLoopStudy\ForLoopStudy\bin\Debug\ForLoopStudy.exe
+D:\Projects\ForLoopStudy\ForLoopStudy\bin\Debug\ForLoopStudy.pdb
+D:\Projects\ForLoopStudy\ForLoopStudy\obj\Debug\ForLoopStudy.csprojResolveAssemblyReference.cache
+D:\Projects\ForLoopStudy\ForLoopStudy\obj\Debug\ForLoopStudy.exe
+D:\Projects\ForLoopStudy\ForLoopStudy\obj\Debug\ForLoopStudy.pdb
